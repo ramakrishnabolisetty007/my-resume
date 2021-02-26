@@ -21,7 +21,7 @@ Worked on Accounting applications based on web.
   - **_Technologies used:_** HTML, CSS, Bootstrap, AJAX, JQuery, JavaScript and Java.
     <br><br>
     
-## 📌 Technical Contribution
+## 📄 Technical Contribution
 
 _This section accounts for personal projects done._
 <br><br>
@@ -61,7 +61,7 @@ entrance, etc.
 
 ## 👨🏼‍🎓 Education
 
-**MTech Software Engineering<br>
+**MTech Software Engineering**<br>
 [Birla Institute of Technology and Science](https://www.bits-pilani.ac.in/) - Pilani, India _(2020 - 2022)_ <br>
 
 **BTech Information Technology** <br>
