@@ -4,7 +4,7 @@ _Software engineer (Full stack) based in Bangalore, India_ <br>
 
 [Email](mailto:ramakrishnabolisetty007@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ramakrishnabolisetty/) / [GitHub](https://github.com/ramakrishnabolisetty007) 
 
-## 👩🏼‍💻 Work Experience
+## 👨🏼‍💻 Work Experience
 
 **Software Engineer II** @ [Oracle](https://www.oracle.com/index.html) _(Nov 2020 - Present)_ <br>
 Worked on web applications that enables other business teams to manage the cloud infrastructure.
